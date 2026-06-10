@@ -47,6 +47,48 @@
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/daf_xd.md"
     },
     {
+      "id": "mercedes_lps_1632",
+      "name": "Mercedes LPS 1632",
+      "author": "mDGroover",
+      "version": "",
+      "game": "ets2",
+      "category": "Caminhão",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [
+        {
+          "mod_id": "pack_de_complemetos",
+          "type": "required",
+          "min_version": "",
+          "reason": ""
+        }
+      ],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "mercendes_1632_md3d.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/mercedes_lps_1632-base-v0.1.0/mercendes_1632_md3d.scs",
+          "sha256": "d64b1c7126383f8deb362ba1a07ceb9696f05450152998d2dcb4904c42b108b5",
+          "size_bytes": 466812991,
+          "release_tag": "mercedes_lps_1632-base-v0.1.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/mercedes_lps_1632/1632.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/mercedes_lps_1632/1632.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/mercedes_lps_1632.md"
+    },
+    {
       "id": "pack_de_complemetos",
       "name": "Pack de Complemetos",
       "author": "mDGroover",
