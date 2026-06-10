@@ -3,38 +3,5 @@
   "last_update": "2026-06-10",
   "name": "Groover Mod Hub Catalog",
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
-  "mods": [
-    {
-      "id": "pack_de_complementos",
-      "name": "Pack de Complementos",
-      "author": "mDGroover",
-      "version": "0.1",
-      "game": "ets2",
-      "category": "Complementos",
-      "description_short": "",
-      "description": "",
-      "game_versions": {
-        "min": "",
-        "max": ""
-      },
-      "dependencies": [],
-      "files": [
-        {
-          "id": "base",
-          "name": "Arquivo principal",
-          "type": "required",
-          "version": "0.1",
-          "file_name": "Complementos_MdGroover.scs",
-          "install_by_default": true,
-          "requires_dlc": [],
-          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_complementos-base-v0.1/Complementos_MdGroover.scs",
-          "sha256": "57317cf5119ca803bf1378e8b743c54f6e0a14d22b3bd9beb70d56781887e0f4",
-          "size_bytes": 461470749,
-          "release_tag": "pack_de_complementos-base-v0.1"
-        }
-      ],
-      "gallery": [],
-      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_de_complementos.md"
-    }
-  ]
+  "mods": []
 }
