@@ -5,6 +5,48 @@
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
     {
+      "id": "daf_xd",
+      "name": "Daf XD",
+      "author": "mDGroover",
+      "version": "",
+      "game": "ets2",
+      "category": "Caminhão",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [
+        {
+          "mod_id": "pack_de_complemetos",
+          "type": "required",
+          "min_version": "",
+          "reason": ""
+        }
+      ],
+      "files": [
+        {
+          "id": "base",
+          "name": "Caminhão",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "DAF_XD.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-base-v0.1.0/DAF_XD.scs",
+          "sha256": "af0dbed99c0e6de89e66427af312587ff6823cbd8f3addeeae90e86a1d38b13a",
+          "size_bytes": 212370845,
+          "release_tag": "daf_xd-base-v0.1.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/daf_xd/m.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/daf_xd/m.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/daf_xd.md"
+    },
+    {
       "id": "pack_de_complemetos",
       "name": "Pack de Complemetos",
       "author": "mDGroover",
