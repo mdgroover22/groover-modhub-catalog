@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/groover-modhub/catalog.schema.json",
+  "title": "Groover Mod Hub Catalog",
+  "type": "object",
+  "required": ["catalog_version", "last_update", "mods"],
+  "properties": {
+    "catalog_version": {
+      "type": "string"
+    },
+    "last_update": {
+      "type": "string",
+      "description": "Data da última atualização do catálogo no formato YYYY-MM-DD."
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "mods": {
+      "type": "array",
+      "items": {
+        "$ref": "mod.schema.json"
+      }
+    }
+  }
+}

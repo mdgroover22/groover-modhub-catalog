@@ -1,0 +1,36 @@
+{
+  "catalog_version": "1.0",
+  "last_update": "2026-06-10",
+  "name": "Groover Mod Hub Catalog",
+  "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
+  "mods": [
+    {
+      "id": "teste_mod",
+      "name": "Teste Mod",
+      "author": "Groover Mods",
+      "version": "0.1.0",
+      "game": "ets2",
+      "category": "Teste",
+      "description_short": "Mod de teste para validar o Hub.",
+      "description": "Arquivo de teste usado para validar download, instalação e atualização no Hub.",
+      "cover_image": "",
+      "gallery": [],
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "teste_mod.scs",
+          "download_url": "COLE_AQUI_O_LINK_DA_RELEASE",
+          "size": "",
+          "sha256": "",
+          "install_by_default": true,
+          "update_mode": "always"
+        }
+      ],
+      "changelog_url": ""
+    }
+  ]
+}

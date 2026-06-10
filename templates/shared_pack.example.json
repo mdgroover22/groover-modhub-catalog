@@ -1,0 +1,28 @@
+{
+  "id": "pack_complemento_groover",
+  "name": "Pack de Complemento Groover",
+  "author": "Groover Mods",
+  "version": "1.2.0",
+  "game": "ets2",
+  "category": "Complementos",
+  "description_short": "Pack compartilhado usado por vários mods.",
+  "description": "Pack base de acessórios, defs e complementos usados por caminhões, addons e outros mods do catálogo.",
+  "cover_image": "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/images/pack_complemento_groover/cover.png",
+  "gallery": [],
+  "dependencies": [],
+  "files": [
+    {
+      "id": "base",
+      "name": "Pack principal",
+      "type": "shared_pack",
+      "version": "1.2.0",
+      "file_name": "pack_complemento_groover.scs",
+      "download_url": "https://github.com/SEU_USUARIO/groover-modhub-catalog/releases/download/pack_complemento_groover-base-v1.2.0/pack_complemento_groover.scs",
+      "size": "120 MB",
+      "sha256": "",
+      "install_by_default": true,
+      "update_mode": "always"
+    }
+  ],
+  "changelog_url": "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/changelogs/pack_complemento_groover.md"
+}

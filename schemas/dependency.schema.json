@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/groover-modhub/dependency.schema.json",
+  "title": "Groover Mod Hub Dependency",
+  "type": "object",
+  "required": ["mod_id", "type"],
+  "properties": {
+    "mod_id": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["required", "recommended", "optional", "conflict"]
+    },
+    "min_version": {
+      "type": "string"
+    },
+    "max_version": {
+      "type": "string"
+    },
+    "reason": {
+      "type": "string"
+    }
+  }
+}

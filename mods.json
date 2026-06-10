@@ -1,5 +1,7 @@
 {
   "catalog_version": "1.0",
   "last_update": "2026-06-10",
+  "name": "Groover Mod Hub Catalog",
+  "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": []
 }

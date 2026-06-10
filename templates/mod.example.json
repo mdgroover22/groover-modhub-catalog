@@ -1,0 +1,69 @@
+{
+  "id": "man_tgx_e6_br",
+  "name": "MAN TGX E6 BR",
+  "author": "Groover Mods",
+  "version": "1.0.0",
+  "game": "ets2",
+  "category": "Caminhão",
+  "description_short": "Mod brasileiro do MAN TGX E6 BR para ETS2.",
+  "description": "Descrição completa do mod. Pode conter detalhes sobre interior, acessórios, compatibilidade, opcionais e observações de instalação.",
+  "cover_image": "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/images/man_tgx_e6_br/cover.png",
+  "gallery": [
+    "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/images/man_tgx_e6_br/interior.png",
+    "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/images/man_tgx_e6_br/traseira.png"
+  ],
+  "game_versions": {
+    "min": "1.50",
+    "max": "1.53"
+  },
+  "dependencies": [
+    {
+      "mod_id": "pack_complemento_groover",
+      "type": "required",
+      "min_version": "1.2.0",
+      "reason": "Necessário para acessórios e definições compartilhadas."
+    }
+  ],
+  "files": [
+    {
+      "id": "base",
+      "name": "Arquivo principal",
+      "type": "required",
+      "version": "1.0.0",
+      "file_name": "man_tgx_e6_br.scs",
+      "download_url": "https://github.com/SEU_USUARIO/groover-modhub-catalog/releases/download/man_tgx_e6_br-base-v1.0.0/man_tgx_e6_br.scs",
+      "size": "450 MB",
+      "sha256": "",
+      "install_by_default": true,
+      "update_mode": "always"
+    },
+    {
+      "id": "sound_original",
+      "name": "Ronco original",
+      "type": "sound",
+      "version": "1.0.0",
+      "file_name": "man_tgx_e6_br_ronco_original.scs",
+      "download_url": "https://github.com/SEU_USUARIO/groover-modhub-catalog/releases/download/man_tgx_e6_br-sound_original-v1.0.0/man_tgx_e6_br_ronco_original.scs",
+      "size": "80 MB",
+      "sha256": "",
+      "install_by_default": false,
+      "update_mode": "only_if_changed"
+    },
+    {
+      "id": "addon_michelin",
+      "name": "Addon DLC Michelin",
+      "type": "dlc_addon",
+      "version": "1.0.0",
+      "file_name": "man_tgx_e6_br_addon_michelin.scs",
+      "download_url": "https://github.com/SEU_USUARIO/groover-modhub-catalog/releases/download/man_tgx_e6_br-addon_michelin-v1.0.0/man_tgx_e6_br_addon_michelin.scs",
+      "size": "20 MB",
+      "sha256": "",
+      "install_by_default": false,
+      "requires_dlc": [
+        "Michelin Fan Pack"
+      ],
+      "update_mode": "only_if_changed"
+    }
+  ],
+  "changelog_url": "https://raw.githubusercontent.com/SEU_USUARIO/groover-modhub-catalog/main/changelogs/man_tgx_e6_br.md"
+}

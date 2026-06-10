@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/groover-modhub/file.schema.json",
+  "title": "Groover Mod Hub File",
+  "type": "object",
+  "required": ["id", "name", "type", "version", "file_name", "download_url", "install_by_default"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_\\-]+$"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "required",
+        "optional",
+        "sound",
+        "addon",
+        "dlc_addon",
+        "fix",
+        "skin",
+        "shared_pack"
+      ]
+    },
+    "version": {
+      "type": "string"
+    },
+    "file_name": {
+      "type": "string"
+    },
+    "download_url": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "sha256": {
+      "type": "string"
+    },
+    "install_by_default": {
+      "type": "boolean"
+    },
+    "requires_dlc": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "update_mode": {
+      "type": "string",
+      "enum": ["always", "only_if_changed"]
+    }
+  }
+}
