@@ -127,7 +127,7 @@
       "id": "pack_de_pneu_pretinho",
       "name": "Pack de Pneu Pretinho",
       "author": "mDGroov3r",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "game": "ets2",
       "category": "tuning_parts",
       "description_short": "",
@@ -142,19 +142,17 @@
           "id": "base",
           "name": "Arquivo principal",
           "type": "required",
-          "version": "1.0.0",
-          "file_name": "Pneu_Pretinho By-mDGroov3r.scs",
+          "version": "1.1.0",
+          "file_name": "Pneu_Pretinho_By-mDGroov3r.scs",
           "install_by_default": true,
           "requires_dlc": [],
-          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_pneu_pretinho-base-v1.0.0/Pneu_Pretinho.By-mDGroov3r.scs",
-          "sha256": "09b56c807b01c7885b7b5d8b571dd882aa08d8772a0d29751f125d7637f17fed",
-          "size_bytes": 74447965,
-          "release_tag": "pack_de_pneu_pretinho-base-v1.0.0"
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_pneu_pretinho-base-v1.1.0/Pneu_Pretinho_By-mDGroov3r.scs",
+          "sha256": "0b722ac1fbb5b55cb509ee9c5ad07618c1d4a731bc5e39829957feb4d5cd6eeb",
+          "size_bytes": 74448207,
+          "release_tag": "pack_de_pneu_pretinho-base-v1.1.0"
         }
       ],
-      "gallery": [
-        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_de_pneu_pretinho/m.jpg"
-      ],
+      "gallery": [],
       "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_de_pneu_pretinho/m.jpg",
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_de_pneu_pretinho.md"
     }
