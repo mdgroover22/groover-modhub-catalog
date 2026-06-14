@@ -5,6 +5,41 @@
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
     {
+      "id": "complementos_roncos",
+      "name": "Complementos Roncos",
+      "author": "mDGroover",
+      "version": "0.1.0",
+      "game": "ets2",
+      "category": "Complementos",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "1.0.0",
+          "file_name": "Roncos_Caminhoes_mDGroov3r.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/complementos_roncos-base-v1.0.0/Roncos_Caminhoes_mDGroov3r.scs",
+          "sha256": "9bc046e1ee35902fd5198f96b713a03ce4296ee32ae9993fdcf4aa1346b5c9ad",
+          "size_bytes": 6400923,
+          "release_tag": "complementos_roncos-base-v1.0.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/complementos_roncos/miniatura2.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/complementos_roncos/miniatura2.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/complementos_roncos.md"
+    },
+    {
       "id": "daf_xd",
       "name": "Daf XD",
       "author": "mDGroover",
