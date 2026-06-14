@@ -8,9 +8,9 @@
       "id": "complementos_roncos",
       "name": "Complementos Roncos",
       "author": "mDGroover",
-      "version": "0.1.0",
+      "version": "1.0.0",
       "game": "ets2",
-      "category": "Complementos",
+      "category": "tuning_parts",
       "description_short": "",
       "description": "",
       "game_versions": {
@@ -33,9 +33,7 @@
           "release_tag": "complementos_roncos-base-v1.0.0"
         }
       ],
-      "gallery": [
-        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/complementos_roncos/miniatura2.jpg"
-      ],
+      "gallery": [],
       "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/complementos_roncos/miniatura2.jpg",
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/complementos_roncos.md"
     },
