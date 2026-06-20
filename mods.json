@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0",
-  "last_update": "2026-06-13",
+  "last_update": "2026-06-20",
   "name": "Groover Mod Hub Catalog",
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
@@ -68,8 +68,8 @@
           "install_by_default": true,
           "requires_dlc": [],
           "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-base-v0.1.1/DAF_XD.scs",
-          "sha256": "8f53cfd4b2be5239060f54fc0353d63d1e050652211a5bfed39bbb92c1a873b2",
-          "size_bytes": 95576152,
+          "sha256": "09dc5c58db6a5aca114eacd79db5baf615f20805b020d5ed7d12f0f5269bddcc",
+          "size_bytes": 95537333,
           "release_tag": "daf_xd-base-v0.1.1"
         },
         {
@@ -77,12 +77,12 @@
           "name": "Ativador_Roncos",
           "type": "sound",
           "version": "0.1.0",
-          "file_name": "ativador_ronco_daf_xd_mDGroov3r.scs",
+          "file_name": "DAF_XD_Ativador_Ronco.scs",
           "install_by_default": true,
           "requires_dlc": [],
-          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-ronco-v0.1.0/ativador_ronco_daf_xd_mDGroov3r.scs",
-          "sha256": "85c806a01702e69a327a8a41499536bc93b44a292cdcb942fde816b2b16a1eac",
-          "size_bytes": 105756,
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-ronco-v0.1.0/DAF_XD_Ativador_Ronco.scs",
+          "sha256": "b3d79ace17c8fdb28216c96bd98afbd8883ddff38a367954e83a7ff89e90bbe3",
+          "size_bytes": 109221,
           "release_tag": "daf_xd-ronco-v0.1.0"
         }
       ],
