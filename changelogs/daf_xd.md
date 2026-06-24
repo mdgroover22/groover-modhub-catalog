@@ -1,5 +1,12 @@
 # Daf XD - Changelog
 
+## v0.1.1 - 2026-06-24
+
+### Arquivos alterados
+- Caminhão 0.1.1
+- Ativador_Roncos 0.1.0
+
+
 ## v0.1.1 - 2026-06-20
 
 ### Arquivos alterados
