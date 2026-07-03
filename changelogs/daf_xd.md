@@ -1,5 +1,11 @@
 # Daf XD - Changelog
 
+## v0.1.1 - 2026-07-03
+
+### Arquivos alterados
+- Caminhão 0.1.3
+
+
 ## v0.1.1 - 2026-07-02
 
 ### Arquivos alterados
