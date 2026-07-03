@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0",
-  "last_update": "2026-07-02",
+  "last_update": "2026-07-03",
   "name": "Groover Mod Hub Catalog",
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
@@ -69,14 +69,14 @@
           "id": "base",
           "name": "Caminhão",
           "type": "required",
-          "version": "0.1.2",
+          "version": "0.1.3",
           "file_name": "DAF_XD.scs",
           "install_by_default": true,
           "requires_dlc": [],
-          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-base-v0.1.2/DAF_XD.scs",
-          "sha256": "261ec412ba79020a4e12bc4d7e50f422f76292959903dd23bf520b383c3cdd17",
-          "size_bytes": 96358045,
-          "release_tag": "daf_xd-base-v0.1.2"
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/daf_xd-base-v0.1.3/DAF_XD.scs",
+          "sha256": "31b9f25c1ab8d48768989ee94907f627834e54741472c6b12d942ad0a9914fe1",
+          "size_bytes": 100966090,
+          "release_tag": "daf_xd-base-v0.1.3"
         },
         {
           "id": "ronco",
