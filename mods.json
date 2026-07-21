@@ -5,6 +5,41 @@
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
     {
+      "id": "acessorios_dlc",
+      "name": "Acessorios DLC mDGroov3r",
+      "author": "mDGroover",
+      "version": "0.1.0",
+      "game": "ets2",
+      "category": "tuning_parts",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "acessorios_dlc_mDGroov3r.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/acessorios_dlc-base-v0.1.0/acessorios_dlc_mDGroov3r.scs",
+          "sha256": "57378e206cd61a8ebd36ebb0732144c2b1ccefb024db425d5293dd6e76ee2821",
+          "size_bytes": 761790,
+          "release_tag": "acessorios_dlc-base-v0.1.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/acessorios_dlc/miniatura2.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/acessorios_dlc/miniatura2.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/acessorios_dlc.md"
+    },
+    {
       "id": "complementos_roncos",
       "name": "Complementos Roncos",
       "author": "mDGroover",
