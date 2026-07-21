@@ -162,14 +162,12 @@
           "install_by_default": true,
           "requires_dlc": [],
           "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_complemetos-base-v0.1.0/Complementos_MdGroover.scs",
-          "sha256": "57317cf5119ca803bf1378e8b743c54f6e0a14d22b3bd9beb70d56781887e0f4",
-          "size_bytes": 461470749,
+          "sha256": "b352f95dcdd9220533da62984fc4de558ac202a7dd4f35e829e05287d03bfeac",
+          "size_bytes": 126182945,
           "release_tag": "pack_de_complemetos-base-v0.1.0"
         }
       ],
-      "gallery": [
-        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_de_complemetos/img.jpg"
-      ],
+      "gallery": [],
       "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_de_complemetos/img.jpg",
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_de_complemetos.md"
     },
