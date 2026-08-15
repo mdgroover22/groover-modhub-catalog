@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0",
-  "last_update": "2026-07-26",
+  "last_update": "2026-08-15",
   "name": "Groover Mod Hub Catalog",
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
@@ -236,6 +236,41 @@
       "gallery": [],
       "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_de_pneu_pretinho/m.jpg",
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_de_pneu_pretinho.md"
+    },
+    {
+      "id": "rota_factor_map_1_57",
+      "name": "Rota Factor Map 1.57",
+      "author": "Rodrigo Crocco, Factor Gamer BR",
+      "version": "1.23",
+      "game": "ets2",
+      "category": "Mapa",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "1.23",
+          "file_name": "ROTA_FACTOR_MAP_V.1.23_ETS2_1.57.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/rota_factor_map_1_57-base-v1.23/ROTA_FACTOR_MAP_V.1.23_ETS2_1.57.scs",
+          "sha256": "00f49840c88b2dac5de4ce04ebf9e854b6874ac99f28d71da8217febeb52201c",
+          "size_bytes": 1119411797,
+          "release_tag": "rota_factor_map_1_57-base-v1.23"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/rota_factor_map_1_57/mod_image.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/rota_factor_map_1_57/mod_image.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/rota_factor_map_1_57.md"
     }
   ]
 }
