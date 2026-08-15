@@ -162,8 +162,8 @@
           "install_by_default": true,
           "requires_dlc": [],
           "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/mercedes_lps_1632-base-v0.1.0/mercendes_1632_md3d.scs",
-          "sha256": "b25f050817cfe690f379cc0afe4d5b0a08fff1d04aa7fe7bf1a8bfb3cc29c424",
-          "size_bytes": 466808787,
+          "sha256": "7c7eb011316ae149992f197cd32d50c63d72c130352229303c5d8f8c1a569e88",
+          "size_bytes": 468324346,
           "release_tag": "mercedes_lps_1632-base-v0.1.0"
         }
       ],
