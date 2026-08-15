@@ -195,8 +195,8 @@
           "install_by_default": true,
           "requires_dlc": [],
           "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_complemetos-base-v0.1.0/Complementos_MdGroover.scs",
-          "sha256": "b352f95dcdd9220533da62984fc4de558ac202a7dd4f35e829e05287d03bfeac",
-          "size_bytes": 126182945,
+          "sha256": "ffcbac79fdbf3952972b8d75f7f9557af0a2319f2a78f882a07f19e6988b4227",
+          "size_bytes": 128144997,
           "release_tag": "pack_de_complemetos-base-v0.1.0"
         }
       ],
