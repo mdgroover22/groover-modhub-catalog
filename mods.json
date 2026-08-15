@@ -238,6 +238,93 @@
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_de_pneu_pretinho.md"
     },
     {
+      "id": "pack_tanques_biasi_e_liess",
+      "name": "Pack Tanques Biasi e Liess",
+      "author": "Tonho Custom Design",
+      "version": "1.6.0",
+      "game": "ets2",
+      "category": "Reboque",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "1.6.0",
+          "file_name": "1_Tanque_Aço_Inox_BIASI_TONHO.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_tanques_biasi_e_liess-base-v1.6.0/1_Tanque_Aco_Inox_BIASI_TONHO.scs",
+          "sha256": "fe8b8026603510064e4008d6e761dc3d4c6e3a3d495e1833b7b2e5147ce39bee",
+          "size_bytes": 230937072,
+          "release_tag": "pack_tanques_biasi_e_liess-base-v1.6.0"
+        },
+        {
+          "id": "mf",
+          "name": "Mercado de Frete",
+          "type": "optional",
+          "version": "1.6.0",
+          "file_name": "2_Tanque_Aço_Inox_BIASI_MERCADO_DE_FRETES.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_tanques_biasi_e_liess-mf-v1.6.0/2_Tanque_Aco_Inox_BIASI_MERCADO_DE_FRETES.scs",
+          "sha256": "d0c17e18fab7b04232f888e2bdfc5db1ea8967045ca05183313365381fc622f3",
+          "size_bytes": 63527904,
+          "release_tag": "pack_tanques_biasi_e_liess-mf-v1.6.0"
+        },
+        {
+          "id": "companybrb",
+          "name": "Company BrBrasil",
+          "type": "fix",
+          "version": "1.6.0",
+          "file_name": "4_COMPANY_BR_BRASIL.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_tanques_biasi_e_liess-companybrb-v1.6.0/4_COMPANY_BR_BRASIL.scs",
+          "sha256": "64dc053a0f8acb92aba52e917e358a1015a8506c8502544a4f014982ea0aacae",
+          "size_bytes": 9398832,
+          "release_tag": "pack_tanques_biasi_e_liess-companybrb-v1.6.0"
+        },
+        {
+          "id": "companyeaa",
+          "name": "Company EAA",
+          "type": "fix",
+          "version": "1.6.0",
+          "file_name": "4_COMPANY_EAA.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_tanques_biasi_e_liess-companyeaa-v1.6.0/4_COMPANY_EAA.scs",
+          "sha256": "1c8d9c1a3a176f39d4022d8b3c8c926123f65080cdefaa06a1f3c82adf9a4d4d",
+          "size_bytes": 17681840,
+          "release_tag": "pack_tanques_biasi_e_liess-companyeaa-v1.6.0"
+        },
+        {
+          "id": "companyscs",
+          "name": "Company SCS",
+          "type": "fix",
+          "version": "1.6.0",
+          "file_name": "4_COMPANY_ORIGINAL.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_tanques_biasi_e_liess-companyscs-v1.6.0/4_COMPANY_ORIGINAL.scs",
+          "sha256": "afcfd20e40f6a4309e79f72ba85b2ef8932ae8ec39a3dec26eb6aeed6cf29d1c",
+          "size_bytes": 9983838,
+          "release_tag": "pack_tanques_biasi_e_liess-companyscs-v1.6.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_tanques_biasi_e_liess/ets2_20230508_100345_00.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_tanques_biasi_e_liess/ets2_20230508_100345_00.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_tanques_biasi_e_liess.md"
+    },
+    {
       "id": "rota_factor_map_1_57",
       "name": "Rota Factor Map 1.57",
       "author": "Rodrigo Crocco, Factor Gamer BR",
