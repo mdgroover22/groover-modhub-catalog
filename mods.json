@@ -228,8 +228,8 @@
           "install_by_default": true,
           "requires_dlc": [],
           "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_pneu_pretinho-base-v1.1.0/Pneu_Pretinho_By-mDGroov3r.scs",
-          "sha256": "0b722ac1fbb5b55cb509ee9c5ad07618c1d4a731bc5e39829957feb4d5cd6eeb",
-          "size_bytes": 74448207,
+          "sha256": "003e7e45999609c730b541765a2bde4eb31862b822338ff4075f7f38d7ba753f",
+          "size_bytes": 50403378,
           "release_tag": "pack_de_pneu_pretinho-base-v1.1.0"
         }
       ],
