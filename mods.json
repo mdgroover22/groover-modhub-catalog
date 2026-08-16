@@ -358,6 +358,38 @@
       ],
       "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/rota_factor_map_1_57/mod_image.jpg",
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/rota_factor_map_1_57.md"
+    },
+    {
+      "id": "rota_factor_compat_reboques_manos",
+      "name": "Rota_Factor_Compat_Reboques_Manos",
+      "author": "mDGroover",
+      "version": "0.1.0",
+      "game": "ets2",
+      "category": "Complementos",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "Rota_Factor_Compat_Reboques_Manos_v1_0.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/rota_factor_compat_reboques_manos-base-v0.1.0/Rota_Factor_Compat_Reboques_Manos_v1_0.scs",
+          "sha256": "801431bcca87a80d5f92a2211d79eb42df4fab7f438943ba4f46d9a3e1bac65d",
+          "size_bytes": 456758,
+          "release_tag": "rota_factor_compat_reboques_manos-base-v0.1.0"
+        }
+      ],
+      "gallery": [],
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/rota_factor_compat_reboques_manos.md"
     }
   ]
 }
