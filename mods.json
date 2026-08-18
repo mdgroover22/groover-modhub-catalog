@@ -132,6 +132,38 @@
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/daf_xd.md"
     },
     {
+      "id": "def_cargo_tonho_obrigatorio",
+      "name": "DEF_CARGO_TONHO_OBRIGATORIO",
+      "author": "Tonho Custom Design",
+      "version": "0.1.0",
+      "game": "ets2",
+      "category": "Complementos",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "0.1.0",
+          "file_name": "DEF_CARGO_TONHO_OBRIGATORIO.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/def_cargo_tonho_obrigatorio-base-v0.1.0/DEF_CARGO_TONHO_OBRIGATORIO.scs",
+          "sha256": "be81e3d95b97e281b8d967d8cac0c2509ddd59af876c8dc70a32ad5c643af72c",
+          "size_bytes": 157413,
+          "release_tag": "def_cargo_tonho_obrigatorio-base-v0.1.0"
+        }
+      ],
+      "gallery": [],
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/def_cargo_tonho_obrigatorio.md"
+    },
+    {
       "id": "mercedes_lps_1632",
       "name": "Mercedes LPS 1632",
       "author": "mDGroover",
