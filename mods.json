@@ -172,6 +172,54 @@
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/mercedes_lps_1632.md"
     },
     {
+      "id": "pack_carga_seca_graneleiro_manos_r_15_00",
+      "name": "Pack Carga Seca/Graneleiro Manos R$15.00",
+      "author": "Tonho Custom Design",
+      "version": "1.6.0",
+      "game": "ets2",
+      "category": "Complementos",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "1.6.0",
+          "file_name": "1_Carga Seca-Graneleiro Manos_TONHO.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_carga_seca_graneleiro_manos_r_15_00-base-v1.6.0/1_Carga.Seca-Graneleiro.Manos_TONHO.scs",
+          "sha256": "c061cd5ac40b7cefae8a8e217db6d9048c671b362c29ad9c6f47b1f8d0996ad6",
+          "size_bytes": 539058304,
+          "release_tag": "pack_carga_seca_graneleiro_manos_r_15_00-base-v1.6.0"
+        },
+        {
+          "id": "mf",
+          "name": "Mercado de Frete",
+          "type": "required",
+          "version": "1.6.0",
+          "file_name": "2_Carga Seca-Graneleiro Manos_MERCADO_DE_FRETES.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_carga_seca_graneleiro_manos_r_15_00-mf-v1.6.0/2_Carga.Seca-Graneleiro.Manos_MERCADO_DE_FRETES.scs",
+          "sha256": "e48b161d3acaea1873d57efc71b643d3b0f15e87966700e0d0e5b9242a8d8e71",
+          "size_bytes": 270903072,
+          "release_tag": "pack_carga_seca_graneleiro_manos_r_15_00-mf-v1.6.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_carga_seca_graneleiro_manos_r_15_00/ets2_20230913_112957_00.png"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_carga_seca_graneleiro_manos_r_15_00/ets2_20230913_112957_00.png",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_carga_seca_graneleiro_manos_r_15_00.md"
+    },
+    {
       "id": "pack_de_complemetos",
       "name": "Pack de Complemetos",
       "author": "mDGroover",
