@@ -220,6 +220,54 @@
       "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_carga_seca_graneleiro_manos_r_15_00.md"
     },
     {
+      "id": "pack_cacambas_superlev_aluminio_manos",
+      "name": "Pack Caçambas SuperLev+ Alumínio Manos",
+      "author": "Tonho Custom Design",
+      "version": "1.6.0",
+      "game": "ets2",
+      "category": "Complementos",
+      "description_short": "",
+      "description": "",
+      "game_versions": {
+        "min": "",
+        "max": ""
+      },
+      "dependencies": [],
+      "files": [
+        {
+          "id": "base",
+          "name": "Arquivo principal",
+          "type": "required",
+          "version": "1.6.0",
+          "file_name": "1_Cacamba_SuperLev+_Manos_TONHO.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_cacambas_superlev_aluminio_manos-base-v1.6.0/1_Cacamba_SuperLev%2B_Manos_TONHO.scs",
+          "sha256": "91f7854d86a107a5aea2e1391fd8066e2f761e707518012e8c8647fbe597ff70",
+          "size_bytes": 619664640,
+          "release_tag": "pack_cacambas_superlev_aluminio_manos-base-v1.6.0"
+        },
+        {
+          "id": "mf",
+          "name": "Mercado de Frete",
+          "type": "required",
+          "version": "1.6.0",
+          "file_name": "2_Cacamba_SuperLev+_Manos_MERCADO_DE_FRETES.scs",
+          "install_by_default": true,
+          "requires_dlc": [],
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_cacambas_superlev_aluminio_manos-mf-v1.6.0/2_Cacamba_SuperLev%2B_Manos_MERCADO_DE_FRETES.scs",
+          "sha256": "113866ab4a5f78523dc0459227f72c9aa4792d13600259fe1e9cda9ac957d011",
+          "size_bytes": 249139744,
+          "release_tag": "pack_cacambas_superlev_aluminio_manos-mf-v1.6.0"
+        }
+      ],
+      "gallery": [
+        "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_cacambas_superlev_aluminio_manos/wp-image-01b4ef_591a90c4302c4eb2847d62f5b324f01b~mv2.jpg"
+      ],
+      "cover_image": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/images/pack_cacambas_superlev_aluminio_manos/wp-image-01b4ef_591a90c4302c4eb2847d62f5b324f01b~mv2.jpg",
+      "changelog_url": "https://raw.githubusercontent.com/mdgroover22/groover-modhub-catalog/main/changelogs/pack_cacambas_superlev_aluminio_manos.md"
+    },
+    {
       "id": "pack_de_complemetos",
       "name": "Pack de Complemetos",
       "author": "mDGroover",
