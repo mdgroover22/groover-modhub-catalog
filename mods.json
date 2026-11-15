@@ -1,6 +1,6 @@
 {
   "catalog_version": "1.0",
-  "last_update": "2026-08-18",
+  "last_update": "2026-11-15",
   "name": "Groover Mod Hub Catalog",
   "description": "Catálogo público de mods usado pelo Groover Mod Hub.",
   "mods": [
@@ -399,14 +399,14 @@
           "id": "base",
           "name": "Arquivo principal",
           "type": "required",
-          "version": "1.1.0",
+          "version": "1.2.0",
           "file_name": "Pneu_Pretinho_By-mDGroov3r.scs",
           "install_by_default": true,
           "requires_dlc": [],
-          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_pneu_pretinho-base-v1.1.0/Pneu_Pretinho_By-mDGroov3r.scs",
-          "sha256": "003e7e45999609c730b541765a2bde4eb31862b822338ff4075f7f38d7ba753f",
-          "size_bytes": 50403378,
-          "release_tag": "pack_de_pneu_pretinho-base-v1.1.0"
+          "download_url": "https://github.com/mdgroover22/groover-modhub-catalog/releases/download/pack_de_pneu_pretinho-base-v1.2.0/Pneu_Pretinho_By-mDGroov3r.scs",
+          "sha256": "49a1aedd554afefee8ef9dc5d29d5a89086048a7d12103750b7666d64a019b4c",
+          "size_bytes": 50413892,
+          "release_tag": "pack_de_pneu_pretinho-base-v1.2.0"
         }
       ],
       "gallery": [],
